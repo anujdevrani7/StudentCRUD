@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+/* .btns{
+    padding:20px;
+} */
+h1{
+    margin: 38px !important;
+}
+td,th{
+    text-transform: capitalize;
+}
+section{
+    margin-bottom: 30px;
+}
